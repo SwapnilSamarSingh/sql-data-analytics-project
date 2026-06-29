@@ -35,6 +35,14 @@ The objective is to transform transactional data into meaningful insights that s
 
 ---
 
+# 📊 Data Analytics Framework
+
+This framework presents the analytical methodologies applied throughout the project, covering both exploratory analysis and advanced analytical techniques. It provides a structured view of the analytical workflow used to discover patterns, measure performance, and generate actionable business insights.
+
+<p align="center">
+    <img src="docs/analytics-roadmap.png" width="100%" alt="Data Analytics Framework">
+</p>
+
 # 🏗️ Analytical Workflow
 
 The project follows a structured analytics lifecycle:
