@@ -87,8 +87,8 @@ sql-data-analytics-project/
 │   ├── 11_part_to_whole_analysis.sql
 │   ├── 12_report_customers.sql
 │   └── 13_report_products.sql
-├── README.md
-└── LICENSE
+├── LICENSE
+└── README.md
 ```
 
 ---
