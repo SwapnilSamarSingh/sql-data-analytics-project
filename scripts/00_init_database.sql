@@ -1,4 +1,4 @@
-# /*
+/*
 
 # Script: Create Database, Schemas, Tables, and Load Analytical Data
 
